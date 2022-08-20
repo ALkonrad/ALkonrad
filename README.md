@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ALkonrad
 - 🌱 I’m currently learning Python
+- I'm considering learning SQL
 - 📫 You can reach me at kaunelundberg@gmail.com
