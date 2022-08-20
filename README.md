@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ALkonrad
+- 🌱 I’m currently learning Python
+- 📫 You can reach me at kaunelundberg@gmail.com
